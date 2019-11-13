@@ -1,4 +1,5 @@
 # MeanApp
+*MEAN Stack Front To Back* *Traversy Media*
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.1.
 
